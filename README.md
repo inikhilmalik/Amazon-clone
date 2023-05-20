@@ -7,9 +7,6 @@
 
 <br/>
 
-### Frontend Deployed URL 👉 [Click here]()
-
-### Backend API 👉 [Click here]()
 
 <br/>
 
